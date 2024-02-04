@@ -5,7 +5,7 @@
 
 ## Overview
 
-This project utilizes the BERT (Bidirectional Encoder Representations from Transformers) model for sentiment analysis on the reviews provided by customers on the Social Brew Cafe-Pyrmont. BERT is a state-of-the-art natural language processing model that has demonstrated remarkable performance in various language understanding tasks.
+This project utilizes the BERT (Bidirectional Encoder Representations from Transformers) model for sentiment analysis on the reviews provided by customers on the Social Brew Cafe, Pyrmont. BERT is a state-of-the-art natural language processing model that has demonstrated remarkable performance in various language understanding tasks.
 
 ### Research Paper
 For a detailed understanding of the BERT model, please refer to the research paper:
