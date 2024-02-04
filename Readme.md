@@ -34,6 +34,6 @@ import pandas as pd
 
 ## Collecting Reviews
 
-Reviews are collected from the Yelp page: 
-- [ Social Brew Cafe - Pyrmont.](https://www.yelp.com/biz/social-brew-cafe-pyrmont) These reviews are loaded into a dataframe, and each sentence is evaluated on a scale of 1-5 using the BERT model, where 1 is the minimum and 5 is the maximum.
+Reviews are collected from the following Yelp page: [ Social Brew Cafe - Pyrmont.](https://www.yelp.com/biz/social-brew-cafe-pyrmont).
+These reviews are loaded into a dataframe, and each sentence is evaluated on a scale of 1-5 using the BERT model, where 1 is the minimum and 5 is the maximum.
 
